@@ -1,0 +1,731 @@
+{
+"schoenfeld2010": {
+"a": "Schoenfeld BJ",
+"y": 2010,
+"t": "The mechanisms of muscle hypertrophy and their application to resistance training",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/20847704/"
+},
+"wackerhage2019": {
+"a": "Wackerhage H, Schoenfeld BJ, Hamilton DL, Lehti M, Hulmi JJ",
+"y": 2019,
+"t": "Stimuli and sensors that initiate skeletal muscle hypertrophy following resistance exercise",
+"j": "Journal of Applied Physiology",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/30335577/"
+},
+"damas2018": {
+"a": "Damas F, Libardi CA, Ugrinowitsch C",
+"y": 2018,
+"t": "The development of skeletal muscle hypertrophy through resistance training: the role of muscle damage and muscle protein synthesis",
+"j": "European Journal of Applied Physiology",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/29282529/"
+},
+"morton2016": {
+"a": "Morton RW, Oikawa SY, Wavell CG, et al.",
+"y": 2016,
+"t": "Neither load nor systemic hormones determine resistance training-mediated hypertrophy or strength gains in resistance-trained young men",
+"j": "Journal of Applied Physiology",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/27174923/"
+},
+"schoenfeld2017load": {
+"a": "Schoenfeld BJ, Grgic J, Ogborn D, Krieger JW",
+"y": 2017,
+"t": "Strength and hypertrophy adaptations between low- vs. high-load resistance training: a systematic review and meta-analysis",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28834797/"
+},
+"refalo2023": {
+"a": "Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ",
+"y": 2023,
+"t": "Influence of resistance training proximity-to-failure on skeletal muscle hypertrophy: a systematic review with meta-analysis",
+"j": "Sports Medicine",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36334240/"
+},
+"robinson2024": {
+"a": "Robinson ZP, Pelland JC, Remmert JF, et al.",
+"y": 2024,
+"t": "Exploring the dose-response relationship between estimated resistance training proximity to failure, strength gain, and muscle hypertrophy: a series of meta-regressions",
+"j": "Sports Medicine",
+"lv": "A",
+"url": "https://doi.org/10.1007/s40279-024-02069-2"
+},
+"grgic2022fail": {
+"a": "Grgic J, Schoenfeld BJ, Orazem J, Sabol F",
+"y": 2022,
+"t": "Effects of resistance training performed to repetition failure or non-failure on muscular strength and hypertrophy: a systematic review and meta-analysis",
+"j": "Journal of Sport and Health Science",
+"lv": "A",
+"url": "https://doi.org/10.1016/j.jshs.2021.01.007"
+},
+"refalo2024": {
+"a": "Refalo MC, Helms ER, Robinson ZP, Hamilton DL, Fyfe JJ",
+"y": 2024,
+"t": "Similar muscle hypertrophy following eight weeks of resistance training to momentary muscular failure or with repetitions-in-reserve in resistance-trained individuals",
+"j": "Journal of Sports Sciences",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38393985/"
+},
+"refalo2023fatigue": {
+"a": "Refalo MC, Helms ER, Hamilton DL, Fyfe JJ",
+"y": 2023,
+"t": "Influence of resistance training proximity-to-failure, determined by repetitions-in-reserve, on neuromuscular fatigue in resistance-trained males and females",
+"j": "Sports Medicine - Open",
+"lv": "B",
+"url": "https://doi.org/10.1186/s40798-023-00554-y"
+},
+"moran2017": {
+"a": "Morán-Navarro R, Pérez CE, Mora-Rodríguez R, et al.",
+"y": 2017,
+"t": "Time course of recovery following resistance training leading or not to failure",
+"j": "European Journal of Applied Physiology",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28965198/"
+},
+"halperin2022": {
+"a": "Halperin I, Malleron T, Har-Nir I, et al.",
+"y": 2022,
+"t": "Accuracy in predicting repetitions to task failure in resistance exercise: a scoping review and exploratory meta-analysis",
+"j": "Sports Medicine",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34542869/"
+},
+"ogasawara2013": {
+"a": "Ogasawara R, Yasuda T, Ishii N, Abe T",
+"y": 2013,
+"t": "Comparison of muscle hypertrophy following 6-month of continuous and periodic strength training",
+"j": "European Journal of Applied Physiology",
+"lv": "B",
+"url": "https://doi.org/10.1007/s00421-012-2511-9"
+},
+"gundersen2016": {
+"a": "Gundersen K",
+"y": 2016,
+"t": "Muscle memory and a new cellular model for muscle atrophy and hypertrophy",
+"j": "Journal of Experimental Biology",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/26792335/"
+},
+"schoenfeld2017vol": {
+"a": "Schoenfeld BJ, Ogborn D, Krieger JW",
+"y": 2017,
+"t": "Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis",
+"j": "Journal of Sports Sciences",
+"lv": "A",
+"url": "https://doi.org/10.1080/02640414.2016.1210197"
+},
+"bazvalle2022": {
+"a": "Baz-Valle E, Balsalobre-Fernández C, Alix-Fages C, Santos-Concejero J",
+"y": 2022,
+"t": "A systematic review of the effects of different resistance training volumes on muscle hypertrophy",
+"j": "Journal of Human Kinetics",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35291645/"
+},
+"pelland2024": {
+"a": "Pelland JC, Remmert JF, Robinson ZP, Hinson SR, Zourdos MC",
+"y": 2026,
+"t": "The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains",
+"j": "Sports Medicine",
+"lv": "A",
+"url": "https://doi.org/10.1007/s40279-025-02344-w"
+},
+"iversen2021": {
+"a": "Iversen VM, Norum M, Schoenfeld BJ, Fimland MS",
+"y": 2021,
+"t": "No time to lift? Designing time-efficient training programs for strength and hypertrophy: a narrative review",
+"j": "Sports Medicine",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/34125411/"
+},
+"schoenfeld2016freq": {
+"a": "Schoenfeld BJ, Ogborn D, Krieger JW",
+"y": 2016,
+"t": "Effects of resistance training frequency on measures of muscle hypertrophy: a systematic review and meta-analysis",
+"j": "Sports Medicine",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/27102172/"
+},
+"schoenfeld2019freq": {
+"a": "Schoenfeld BJ, Grgic J, Krieger J",
+"y": 2019,
+"t": "How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of studies examining the effects of resistance training frequency",
+"j": "Journal of Sports Sciences",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/30558493/"
+},
+"schoenfeld2016rest": {
+"a": "Schoenfeld BJ, Pope ZK, Benik FM, et al.",
+"y": 2016,
+"t": "Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+},
+"singer2024": {
+"a": "Singer A, Wolf M, Generoso L, et al.",
+"y": 2024,
+"t": "Give it a rest: a systematic review with Bayesian meta-analysis on the effect of inter-set rest interval duration on muscle hypertrophy",
+"j": "Frontiers in Sports and Active Living",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/39205815/"
+},
+"schoenfeld2015tempo": {
+"a": "Schoenfeld BJ, Ogborn DI, Krieger JW",
+"y": 2015,
+"t": "Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis",
+"j": "Sports Medicine",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/25601394/"
+},
+"wolf2023": {
+"a": "Wolf M, Androulakis-Korakakis P, Fisher J, Schoenfeld B, Steele J",
+"y": 2023,
+"t": "Partial vs full range of motion resistance training: a systematic review and meta-analysis",
+"j": "International Journal of Strength and Conditioning",
+"lv": "A",
+"url": "https://doi.org/10.47206/ijsc.v3i1.182"
+},
+"pedrosa2022": {
+"a": "Pedrosa GF, Lima FV, Schoenfeld BJ, et al.",
+"y": 2022,
+"t": "Partial range of motion training elicits favorable improvements in muscular adaptations when carried out at long muscle lengths",
+"j": "European Journal of Sport Science",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33977835/"
+},
+"bazvalle2019var": {
+"a": "Baz-Valle E, Schoenfeld BJ, Torres-Unda J, Santos-Concejero J, Balsalobre-Fernández C",
+"y": 2019,
+"t": "The effects of exercise variation in muscle thickness, maximal strength and motivation in resistance trained men",
+"j": "PLoS One",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31881066/"
+},
+"kassiano2022var": {
+"a": "Kassiano W, Nunes JP, Costa B, et al.",
+"y": 2022,
+"t": "Does varying resistance exercises promote superior muscle hypertrophy and strength gains? A systematic review",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35438660/"
+},
+"plotkin2022": {
+"a": "Plotkin D, Coleman M, Van Every D, et al.",
+"y": 2022,
+"t": "Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations",
+"j": "PeerJ",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36199287/"
+},
+"acsm2009": {
+"a": "American College of Sports Medicine",
+"y": 2009,
+"t": "Position stand: progression models in resistance training for healthy adults",
+"j": "Medicine & Science in Sports & Exercise",
+"lv": "C",
+"url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+},
+"coleman2024": {
+"a": "Coleman M, Burke R, Augustin F, et al.",
+"y": 2024,
+"t": "Gaining more from doing less? The effects of a one-week deload period during supervised resistance training on muscular adaptations",
+"j": "PeerJ",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/38274324/"
+},
+"bell2023": {
+"a": "Bell L, Strafford BW, Coleman M, Androulakis Korakakis P, Nolan D",
+"y": 2023,
+"t": "Integrating deloading into strength and physique sports training programmes: an international Delphi consensus approach",
+"j": "Sports Medicine - Open",
+"lv": "C",
+"url": "https://doi.org/10.1186/s40798-023-00633-0"
+},
+"chaves2020": {
+"a": "Chaves SFN, Rocha-Júnior VA, Encarnação IGA, et al.",
+"y": 2020,
+"t": "Effects of horizontal and incline bench press on neuromuscular adaptations in untrained young men",
+"j": "International Journal of Exercise Science",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32922646/"
+},
+"rodriguezridao2020": {
+"a": "Rodríguez-Ridao D, Antequera-Vique JA, Martín-Fuentes I, Muyor JM",
+"y": 2020,
+"t": "Effect of five bench inclinations on the electromyographic activity of the pectoralis major, anterior deltoid, and triceps brachii during the bench press exercise",
+"j": "International Journal of Environmental Research and Public Health",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33049982/"
+},
+"kikuchi2017": {
+"a": "Kikuchi N, Nakazato K",
+"y": 2017,
+"t": "Low-load bench press and push-up induce similar muscle hypertrophy and strength gain",
+"j": "Journal of Exercise Science & Fitness",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/29541130/"
+},
+"suprak2011": {
+"a": "Suprak DN, Dawes J, Stephenson MD",
+"y": 2011,
+"t": "The effect of position on the percentage of body mass supported during traditional and modified push-up variants",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/20179649/"
+},
+"green2007": {
+"a": "Green CM, Comfort P",
+"y": 2007,
+"t": "The affect of grip width on bench press performance and risk of injury",
+"j": "Strength and Conditioning Journal",
+"lv": "D",
+"url": "https://doi.org/10.1519/00126548-200710000-00001"
+},
+"andersen2014": {
+"a": "Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH",
+"y": 2014,
+"t": "Effects of grip width on muscle strength and activation in the lat pull-down",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/24662157/"
+},
+"lusk2010": {
+"a": "Lusk SJ, Hale BD, Russell DM",
+"y": 2010,
+"t": "Grip width and forearm orientation effects on muscle activity during the lat pull-down",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/20543740/"
+},
+"campos2020": {
+"a": "Campos YAC, Vianna JM, Guimarães MP, et al.",
+"y": 2020,
+"t": "Different shoulder exercises affect the activation of deltoid portions in resistance-trained individuals",
+"j": "Journal of Human Kinetics",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33312291/"
+},
+"coratella2020": {
+"a": "Coratella G, Tornatore G, Longo S, Esposito F, Cè E",
+"y": 2020,
+"t": "An electromyographic analysis of lateral raise variations and frontal raise in competitive bodybuilders",
+"j": "International Journal of Environmental Research and Public Health",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32824894/"
+},
+"schoenfeld2013fly": {
+"a": "Schoenfeld B, Sonmez RGT, Kolber MJ, Contreras B, Harris R, Ozen S",
+"y": 2013,
+"t": "Effect of hand position on EMG activity of the posterior shoulder musculature during a horizontal abduction exercise",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "D",
+"url": "https://doi.org/10.1519/JSC.0b013e318281e1e9"
+},
+"holzbaur2007": {
+"a": "Holzbaur KRS, Murray WM, Gold GE, Delp SL",
+"y": 2007,
+"t": "Upper limb muscle volumes in adult subjects",
+"j": "Journal of Biomechanics",
+"lv": "D",
+"url": "https://doi.org/10.1016/j.jbiomech.2006.11.011"
+},
+"maeo2023": {
+"a": "Maeo S, Wu Y, Huang M, et al.",
+"y": 2023,
+"t": "Triceps brachii hypertrophy is substantially greater after elbow extension training performed in the overhead versus neutral arm position",
+"j": "European Journal of Sport Science",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35819335/"
+},
+"brandao2020": {
+"a": "Brandão L, de Salles Painelli V, Lasevicius T, et al.",
+"y": 2020,
+"t": "Varying the order of combinations of single- and multi-joint exercises differentially affects resistance training adaptations",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32149887/"
+},
+"pedrosa2023": {
+"a": "Pedrosa GF, Simões MG, Figueiredo MOC, et al.",
+"y": 2023,
+"t": "Training in the initial range of motion promotes greater muscle adaptations than at final in the arm curl",
+"j": "Sports",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36828324/"
+},
+"kubo2019": {
+"a": "Kubo K, Ikebukuro T, Yata H",
+"y": 2019,
+"t": "Effects of squat training with different depths on lower limb muscle volumes",
+"j": "European Journal of Applied Physiology",
+"lv": "B",
+"url": "https://link.springer.com/doi/10.1007/s00421-019-04181-y"
+},
+"maeo2021": {
+"a": "Maeo S, Huang M, Wu Y, et al.",
+"y": 2021,
+"t": "Greater hamstrings muscle hypertrophy but similar damage protection after training at long versus short muscle lengths",
+"j": "Medicine & Science in Sports & Exercise",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33009197/"
+},
+"plotkin2023": {
+"a": "Plotkin DL, Rodas MA, Vigotsky AD, et al.",
+"y": 2023,
+"t": "Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift",
+"j": "Frontiers in Physiology",
+"lv": "B",
+"url": "https://doi.org/10.3389/fphys.2023.1279170"
+},
+"kinoshita2023": {
+"a": "Kinoshita M, Maeo S, Kobayashi Y, et al.",
+"y": 2023,
+"t": "Triceps surae muscle hypertrophy is greater after standing versus seated calf-raise training",
+"j": "Frontiers in Physiology",
+"lv": "B",
+"url": "https://doi.org/10.3389/fphys.2023.1272106"
+},
+"powers2014": {
+"a": "Powers CM, Ho KY, Chen YJ, Souza RB, Farrokhi S",
+"y": 2014,
+"t": "Patellofemoral joint stress during weight-bearing and non-weight-bearing quadriceps exercises",
+"j": "Journal of Orthopaedic & Sports Physical Therapy",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/24673446/"
+},
+"rauschosthoff2018": {
+"a": "Rausch Osthoff AK, Niedermann K, Braun J, et al.",
+"y": 2018,
+"t": "2018 EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis",
+"j": "Annals of the Rheumatic Diseases",
+"lv": "C",
+"url": "https://pubmed.ncbi.nlm.nih.gov/29997112/"
+},
+"brookewavell2022": {
+"a": "Brooke-Wavell K, Skelton DA, Barker KL, et al.",
+"y": 2022,
+"t": "Strong, steady and straight: UK consensus statement on physical activity and exercise for osteoporosis",
+"j": "British Journal of Sports Medicine",
+"lv": "C",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35577538/"
+},
+"nunes2021": {
+"a": "Nunes JP, Grgic J, Cunha PM, et al.",
+"y": 2021,
+"t": "What influence does resistance exercise order have on muscular strength gains and muscle hypertrophy? A systematic review and meta-analysis",
+"j": "European Journal of Sport Science",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32077380/"
+},
+"morton2018": {
+"a": "Morton RW, Murphy KT, McKellar SR, et al.",
+"y": 2018,
+"t": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+"j": "British Journal of Sports Medicine",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28698222/"
+},
+"jager2017": {
+"a": "Jäger R, Kerksick CM, Campbell BI, et al.",
+"y": 2017,
+"t": "International Society of Sports Nutrition Position Stand: protein and exercise",
+"j": "Journal of the International Society of Sports Nutrition",
+"lv": "C",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28642676/"
+},
+"schoenfeld2018meal": {
+"a": "Schoenfeld BJ, Aragon AA",
+"y": 2018,
+"t": "How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution",
+"j": "Journal of the International Society of Sports Nutrition",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/29497353/"
+},
+"schoenfeld2013timing": {
+"a": "Schoenfeld BJ, Aragon AA, Krieger JW",
+"y": 2013,
+"t": "The effect of protein timing on muscle strength and hypertrophy: a meta-analysis",
+"j": "Journal of the International Society of Sports Nutrition",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/24299050/"
+},
+"murphy2022": {
+"a": "Murphy C, Koehler K",
+"y": 2022,
+"t": "Energy deficiency impairs resistance training gains in lean mass but not strength: a meta-analysis and meta-regression",
+"j": "Scandinavian Journal of Medicine & Science in Sports",
+"lv": "A",
+"url": "https://www.pubmed.gov/34623696/"
+},
+"barakat2020": {
+"a": "Barakat C, Pearson J, Escalante G, Campbell B, De Souza EO",
+"y": 2020,
+"t": "Body recomposition: can trained individuals build muscle and lose fat at the same time?",
+"j": "Strength and Conditioning Journal",
+"lv": "D",
+"url": "https://lida.sport-iat.de/ta/Record/4066252?lng=en"
+},
+"garthe2011": {
+"a": "Garthe I, Raastad T, Refsnes PE, Koivisto A, Sundgot-Borgen J",
+"y": 2011,
+"t": "Effect of two different weight-loss rates on body composition and strength and power-related performance in elite athletes",
+"j": "International Journal of Sport Nutrition and Exercise Metabolism",
+"lv": "B",
+"url": "https://www.pubmed.gov/21558571/"
+},
+"mifflin1990": {
+"a": "Mifflin MD, St Jeor ST, Hill LA, Scott BJ, Daugherty SA, Koh YO",
+"y": 1990,
+"t": "A new predictive equation for resting energy expenditure in healthy individuals",
+"j": "American Journal of Clinical Nutrition",
+"lv": "D",
+"url": "https://www.qxmd.com/r/2305711"
+},
+"devries2018": {
+"a": "Devries MC, Sithamparapillai A, Brimble KS, et al.",
+"y": 2018,
+"t": "Changes in kidney function do not differ between healthy adults consuming higher- compared with lower- or normal-protein diets: a systematic review and meta-analysis",
+"j": "Journal of Nutrition",
+"lv": "A",
+"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6236074"
+},
+"kreider2017": {
+"a": "Kreider RB, Kalman DS, Antonio J, et al.",
+"y": 2017,
+"t": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+"j": "Journal of the International Society of Sports Nutrition",
+"lv": "C",
+"url": "https://pubmed.ncbi.nlm.nih.gov/28615996/"
+},
+"desouza2019": {
+"a": "de Souza e Silva A, Pertille A, Reis Barbosa CG, et al.",
+"y": 2019,
+"t": "Effects of creatine supplementation on renal function: a systematic review and meta-analysis",
+"j": "Journal of Renal Nutrition",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/31375416/"
+},
+"longobardi2023": {
+"a": "Longobardi I, Gualano B, Seguro AC, Roschel H",
+"y": 2023,
+"t": "Is it time for a requiem for creatine supplementation-induced kidney failure? A narrative review",
+"j": "Nutrients",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/36986197/"
+},
+"choi2004": {
+"a": "Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G",
+"y": 2004,
+"t": "Purine-rich foods, dairy and protein intake, and the risk of gout in men",
+"j": "New England Journal of Medicine",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/15014182/"
+},
+"choi2008": {
+"a": "Choi HK, Curhan G",
+"y": 2008,
+"t": "Soft drinks, fructose consumption, and the risk of gout in men: prospective cohort study",
+"j": "BMJ",
+"lv": "D",
+"url": "https://pubmed.ncbi.nlm.nih.gov/18244959/"
+},
+"choi2004alcohol": {
+"a": "Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G",
+"y": 2004,
+"t": "Alcohol intake and risk of incident gout in men: a prospective study",
+"j": "The Lancet",
+"lv": "D",
+"url": "https://www.qxmd.com/r/15094272"
+},
+"parr2014": {
+"a": "Parr EB, Camera DM, Areta JL, et al.",
+"y": 2014,
+"t": "Alcohol ingestion impairs maximal post-exercise rates of myofibrillar protein synthesis following a single bout of concurrent training",
+"j": "PLoS One",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/24533082/"
+},
+"guest2021": {
+"a": "Guest NS, VanDusseldorp TA, Nelson MT, et al.",
+"y": 2021,
+"t": "International society of sports nutrition position stand: caffeine and exercise performance",
+"j": "Journal of the International Society of Sports Nutrition",
+"lv": "C",
+"url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221"
+},
+"lamon2021": {
+"a": "Lamon S, Morabito A, Arentson-Lantz E, et al.",
+"y": 2021,
+"t": "The effect of acute sleep deprivation on skeletal muscle protein synthesis and the hormonal environment",
+"j": "Physiological Reports",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/33400856/"
+},
+"nedeltcheva2010": {
+"a": "Nedeltcheva AV, Kilkus JM, Imperial J, Schoeller DA, Penev PD",
+"y": 2010,
+"t": "Insufficient sleep undermines dietary efforts to reduce adiposity",
+"j": "Annals of Internal Medicine",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/20921542/"
+},
+"schumann2022": {
+"a": "Schumann M, Feuerbacher JF, Sünkeler M, et al.",
+"y": 2022,
+"t": "Compatibility of concurrent aerobic and strength training for skeletal muscle size and function: an updated systematic review and meta-analysis",
+"j": "Sports Medicine",
+"lv": "A",
+"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891239/"
+},
+"who2020": {
+"a": "Bull FC, Al-Ansari SS, Biddle S, et al.",
+"y": 2020,
+"t": "World Health Organization 2020 guidelines on physical activity and sedentary behaviour",
+"j": "British Journal of Sports Medicine",
+"lv": "C",
+"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/"
+},
+"paluch2022": {
+"a": "Paluch AE, Bajpai S, Bassett DR, et al.",
+"y": 2022,
+"t": "Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts",
+"j": "The Lancet Public Health",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/35247352/"
+},
+"afonso2021": {
+"a": "Afonso J, Clemente FM, Nakamura FY, et al.",
+"y": 2021,
+"t": "The effectiveness of post-exercise stretching in short-term and delayed recovery of strength, range of motion and delayed onset muscle soreness: a systematic review and meta-analysis of randomized controlled trials",
+"j": "Frontiers in Physiology",
+"lv": "A",
+"url": "https://www.frontiersin.org/articles/10.3389/fphys.2021.677581/full"
+},
+"nana2015": {
+"a": "Nana A, Slater GJ, Stewart AD, Burke LM",
+"y": 2015,
+"t": "Methodology review: using dual-energy X-ray absorptiometry (DXA) for the assessment of body composition in athletes and active people",
+"j": "International Journal of Sport Nutrition and Exercise Metabolism",
+"lv": "D",
+"url": "https://research.usc.edu.au/esploro/outputs/journalArticle/Methodology-Review-Using-Dual-Energy-X-ray-Absorptiometry/99449600302621"
+},
+"who2008waist": {
+"a": "World Health Organization",
+"y": 2011,
+"t": "Waist circumference and waist-hip ratio: report of a WHO expert consultation, Geneva, 8-11 December 2008",
+"j": "WHO",
+"lv": "C",
+"url": "https://www.who.int/publications/i/item/9789241501491"
+},
+"vispute2011": {
+"a": "Vispute SS, Smith JD, LeCheminant JD, Hurley KS",
+"y": 2011,
+"t": "The effect of abdominal exercise on abdominal fat",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/21804427/"
+},
+"schoenfeld2014fasted": {
+"a": "Schoenfeld BJ, Aragon AA, Wilborn CD, Krieger JW, Sonmez GT",
+"y": 2014,
+"t": "Body composition changes associated with fasted versus non-fasted aerobic exercise",
+"j": "Journal of the International Society of Sports Nutrition",
+"lv": "B",
+"url": "https://pubmed.ncbi.nlm.nih.gov/25429252/"
+},
+"hartmann2013": {
+"a": "Hartmann H, Wirth K, Klusemann M",
+"y": 2013,
+"t": "Analysis of the load on the knee joint and vertebral column with changes in squatting depth and weight load",
+"j": "Sports Medicine",
+"lv": "D",
+"url": "https://www.doi.org/10.1007/s40279-013-0073-6"
+},
+"larsen2025": {
+"a": "Larsen S, Wolf M, Schoenfeld BJ, et al.",
+"y": 2025,
+"t": "Dumbbell versus cable lateral raises for lateral deltoid hypertrophy: an experimental study",
+"j": "Frontiers in Physiology",
+"lv": "B",
+"url": "https://doi.org/10.3389/fphys.2025.1611468"
+},
+"saeterbakken2021": {
+"a": "Saeterbakken AH, Stien N, Pedersen H, Solstad TEJ, Cumming KT, Andersen V",
+"y": 2021,
+"t": "The effect of grip width on muscle strength and electromyographic activity in bench press among novice- and resistance-trained men",
+"j": "International Journal of Environmental Research and Public Health",
+"lv": "D",
+"url": "https://doi.org/10.3390/ijerph18126444"
+},
+"colenso2023": {
+"a": "Colenso-Semple LM, D'Souza AC, Elliott-Sale KJ, Phillips SM",
+"y": 2023,
+"t": "Current evidence shows no influence of women's menstrual cycle phase on acute strength performance or adaptations to resistance exercise training",
+"j": "Frontiers in Sports and Active Living",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37033884/"
+},
+"roberts2020": {
+"a": "Roberts BM, Nuckols G, Krieger JW",
+"y": 2020,
+"t": "Sex differences in resistance training: a systematic review and meta-analysis",
+"j": "Journal of Strength and Conditioning Research",
+"lv": "A",
+"url": "https://pubmed.ncbi.nlm.nih.gov/32218059/"
+},
+"refalo2025sex": {
+"a": "Refalo MC, et al.",
+"y": 2025,
+"t": "Sex differences in absolute and relative changes in muscle size following resistance training in healthy adults: a systematic review with Bayesian meta-analysis",
+"j": "PeerJ",
+"lv": "A",
+"url": "https://peerj.com/articles/19042"
+},
+"acog2020": {
+"a": "American College of Obstetricians and Gynecologists",
+"y": 2020,
+"t": "Physical activity and exercise during pregnancy and the postpartum period: ACOG Committee Opinion, Number 804",
+"j": "Obstetrics & Gynecology",
+"lv": "C",
+"url": "https://read.qxmd.com/read/32217980/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period-acog-committee-opinion-number-804"
+},
+"mottola2018": {
+"a": "Mottola MF, Davenport MH, Ruchat SM, et al.",
+"y": 2018,
+"t": "2019 Canadian guideline for physical activity throughout pregnancy",
+"j": "British Journal of Sports Medicine",
+"lv": "C",
+"url": "https://doi.org/10.1136/bjsports-2018-100056"
+},
+"mountjoy2023": {
+"a": "Mountjoy M, Ackerman KE, Bailey DM, et al.",
+"y": 2023,
+"t": "2023 International Olympic Committee's (IOC) consensus statement on Relative Energy Deficiency in Sport (REDs)",
+"j": "British Journal of Sports Medicine",
+"lv": "C",
+"url": "https://pubmed.ncbi.nlm.nih.gov/37752011/"
+},
+"lopes2019": {
+"a": "Lopes JSS, Machado AF, Micheletti JK, et al.",
+"y": 2019,
+"t": "Effects of training with elastic resistance versus conventional resistance on muscular strength: a systematic review and meta-analysis",
+"j": "SAGE Open Medicine",
+"lv": "A",
+"url": "https://doi.org/10.1177/2050312119831116"
+},
+"cnscalcium2023": {
+"a": "中国营养学会",
+"y": 2023,
+"t": "中国居民膳食营养素参考摄入量（2023版）",
+"j": "北京：人民卫生出版社",
+"lv": "C",
+"url": "https://en.cnsoc.org/DRIs/122510202.html",
+"note": "官网页面未列具体数值；钙、铁数值见澎湃新闻、网易数读等对该版的报道"
+}
+}

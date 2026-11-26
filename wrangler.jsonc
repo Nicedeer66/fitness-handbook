@@ -1,0 +1,7 @@
+{
+  // 静态网站：把 site/ 目录部署到 Cloudflare，并绑定 fitness.liangdeer.com
+  "name": "fitness-handbook",
+  "compatibility_date": "2025-06-01",
+  "assets": { "directory": "./site" },
+  "routes": [{ "pattern": "fitness.liangdeer.com", "custom_domain": true }]
+}
